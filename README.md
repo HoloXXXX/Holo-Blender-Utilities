@@ -20,4 +20,4 @@ Please feel free to pull request a feature or a bug fix, though I don't promise 
 
 # License
 
-[GNU General Public License v3.0]
+[GNU General Public License v3.0](https://github.com/HoloXXXX/Holo-Blender-Utilities/blob/main/LICENSE)
