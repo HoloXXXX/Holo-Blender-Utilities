@@ -8,7 +8,7 @@ I guarantee nothing about the practical use of these functions, nor do I guarant
 
 ## Features
 
-Write now the list of features is only one, but more will get added as I need them:
+Right now the list of features is only one, but more will get added as I need them:
 
 - Toggle hide - toggles the hide value of the outliner selection so you don't have to unhide everything in your scene if you want to unhide one object with a keybind. It's hard to believe that Blender has simulations, beautiful cycles renders, video editing, a full sculpting suite --- but no toggle for hiding objects. It was surprisingly annoying to create.
 
